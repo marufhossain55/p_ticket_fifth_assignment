@@ -105,11 +105,10 @@ function applyCoupon() {
     const discountedPrice = totalPrice * 0.85;
     const grandTotal = discountedPrice;
     grandTotalSpan.textContent = grandTotal;
-  } else if (couponCode === 'couple 20') {
+  } else if (couponCode === 'Couple 20') {
     const totalPrice = selectedButtons * 550;
     const discountedPrice = totalPrice * 0.8;
     const grandTotal = discountedPrice;
-
     grandTotalSpan.textContent = grandTotal;
   }
 
