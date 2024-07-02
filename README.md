@@ -1,9 +1,9 @@
 # Demo
 Live website URL link : https://b9a10-client-side.web.app/
 # How to Install
-Download first
-npm i
-npm run dev
+- Download first
+- npm i
+- npm run dev
 
 Website Catagory
 Website Name : Roam Ready
